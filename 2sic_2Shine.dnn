@@ -1,7 +1,7 @@
 ﻿<dotnetnuke type="Package" version="5.0">
-  <packages><package name="2Shine" type="Container" version="1.2.0">
-  <friendlyName>2Shine</friendlyName>
-  <description>2Shine</description>
+  <packages><package name="2shine BS5" type="Container" version="1.2.0">
+  <friendlyName>2shine BS5</friendlyName>
+  <description>2shine BS5</description>
   <iconFile />
   <owner>
     <name>2sic</name>
