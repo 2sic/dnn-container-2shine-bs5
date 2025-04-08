@@ -1,7 +1,7 @@
 ﻿<dotnetnuke type="Package" version="5.0">
-  <packages><package name="2shine BS5" type="Container" version="1.2.0">
+  <packages><package name="2shine BS5 Containers" type="Container" version="5.0.0">
   <friendlyName>2shine BS5</friendlyName>
-  <description>2shine BS5</description>
+  <description>2shine BS5 Containers</description>
   <iconFile />
   <owner>
     <name>2sic</name>
@@ -34,8 +34,8 @@ SOFTWARE.</license>
   <components>
     <component type="Container">
       <containerFiles>
-        <containerName>2Shine</containerName>
-        <basePath>Portals\_default\Containers\2Shine</basePath>
+        <containerName>2shine BS5</containerName>
+        <basePath>Portals\_default\Containers\2shineBS5</basePath>
         <containerFile>
           <name>default.ascx</name>
         </containerFile>
